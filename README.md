@@ -1,12 +1,10 @@
-# Project 2 Generative Audio
+# Project 2 Generated Confidence
 
-Your Name, yourcontact@unl.edu
-
-(Your teammate's contact info, if appropriate)
+Kayla LaPoure, klapoure2@huskers.unl.edu
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+I think it would be interesting to think about self reflection. Who am I? Is it me physically? My voice? What if I am not confident in myself? What then? Growing up I was always taught to fake it till I made it. Affirm myself in the mirror every morning. Maybe I am not confident, but maybe these words will affect me and somehow teach me to be. What happens when my voice as an AI generation tells me these affirmations? This project is about searching who I am, what makes up myself, and confidence in it. I plan on using the TTS model either in collab or OOD and a clip of me saying positive affirmations. Visually, I am hoping to have a video of me, my own voice saying affirmations the AI is, and an AI visual version of me (like the ancestry one that people were super into a while back). I think it would be super interesting to mix and match the visuals and the audio. 
 
 ## Model/Data
 
