@@ -54,5 +54,7 @@ I used TokkingHeads for the visual elements of the project
 ## Reference
 
 Affirmations I used: Top 100 List of Positive Affirmations | Committed To Myself
+
 CoLab: YourTTS-zeroshot-TTS-demo.ipynb - Colaboratory (google.com)
+
 TokkingHeads: Tokkingheads
