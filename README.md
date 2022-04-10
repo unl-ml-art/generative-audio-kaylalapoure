@@ -37,15 +37,11 @@ Here is the audio version of the AI using my voice as the training data:
 
 https://user-images.githubusercontent.com/78117204/162637589-546fa629-cf7e-457f-b540-120aab540ec8.mp4
 
-
  
 Here’s the video and audio components:
+I had my voice with my own face and the AI face for part of the video and I had the AI voice with my own face and AI face. 
 
-Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- `.wav` files or `.mp4`
-- `.midi` files
-- musical scores
-- ... some other form
+https://youtu.be/ZarxfYlfDJM
 
 ## Technical Notes
 
