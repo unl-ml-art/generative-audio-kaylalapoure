@@ -17,18 +17,25 @@ For the training data I recorded my own voice reading different affirmations in 
 ## Code
 
 Your code for generating your project:
-- Jupyter notebooks: https://crane-ood.unl.edu/node/c2422.crane.hcc.unl.edu/26847/doc/tree/ml-art-code/voice_cloning/YourTTS_zeroshot_TTS_demo.ipynbhttps://crane-ood.unl.edu/node/c2422.crane.hcc.unl.edu/26847/doc/tree/ml-art-code/voice_cloning/YourTTS_zeroshot_TTS_demo.ipynb
-- There was also an option for CoLab, but there were issues with getting the correct issues of torch to upload.
+- Jupyter notebooks: The notebook is included in the project folder itself instead of linked. 
+- There was also an option for CoLab, but there were issues with getting the correct issues of torch to upload. The google drive link is also so old it is broken, so you will need to download it and import it. I included a link to that version below. 
+- CoLab notebook: https://colab.research.google.com/drive/1haQYzEAMnOOc9oGLV6bxszWE8CoXOWOC#scrollTo=33efzXGOWDx3
+- File Directory to download: https://drive.google.com/uc?id=1sgEjHt0lbPSEw9-FSbC_mBoOPwNi87YR
 
 ## Results
 
 I think that the experience of having generated words with a video of myself creates a very weird experience. I see my face moving, but not the way I move it and a voice saying things that I said, just slightly off. Overall, exploring who I am as a person and what makes me up comparatively to AI or my digital twin was really interesting. While there is a big picture that works in both areas, it really is the little things, the subtleties in my voice inflections, my micromovements of my face that make me up. Perhaps that too is what builds up confidence; one syllable at a time. 
 
 Here is the Audio version of my own voice:
+I should mention that I was ill when I recorded my voice, so my own voice doesn't quite sound like this.
+
+https://user-images.githubusercontent.com/78117204/162637595-72622f21-5485-496a-9b95-0930e9aed776.mp4
+
  
 Here is the audio version of the AI using my voice as the training data:
 
-https://user-images.githubusercontent.com/78117204/162637209-337dae68-d1ef-499e-a9e3-c2d5a9f9fd02.mp4
+
+https://user-images.githubusercontent.com/78117204/162637589-546fa629-cf7e-457f-b540-120aab540ec8.mp4
 
 
  
@@ -42,13 +49,14 @@ Documentation of your results in an appropriate format, both links to files and 
 
 ## Technical Notes
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+I used my own voice, so using that recording would help recreate it 
+Visually, I chose a photo that is about ¾ of the way facing forward to get the visual results that I wanted from the AI
+I used OOD for the sound elements of my project
+I used TokkingHeads for the visual elements of the project
+
 
 ## Reference
 
-References to any papers, techniques, repositories you used:
-- Papers
-- Repositories
-- Blog posts
+Affirmations I used: Top 100 List of Positive Affirmations | Committed To Myself
+CoLab: YourTTS-zeroshot-TTS-demo.ipynb - Colaboratory (google.com)
+TokkingHeads: Tokkingheads
